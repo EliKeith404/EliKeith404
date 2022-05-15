@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
+    <img src="github-banner.jpg" align="center" style="width: 100%" />
+</div>
+<br/>
 
-<!--
-**EliKeith404/EliKeith404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi! I'm Eli, a software engineer experienced in full-stack web developement and app developement.</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+    <a href="">
+        <img src="" alt="Portfolio Site" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/elikeith404">
+        <img src="" alt="twitter" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/elikeith404">
+        <img src="" alt="linkedin" style="margin-bottom: 5px;" />
+    </a>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">Community taught software engineer with a deep interest in data visualization. Proven track record of creating and implementing successful front and back end web applications. Skilled in solving problems with HTML, CSS, JavaScript, React, SQL, Node, MongoDB, and Express. Currently looking for full time work and open to work on any interesting projects. </p>
+
+<br/>
+
+---
+
+<br>
+
+<!-- PROJECTS -->
+<h2 align="center" color="white">Projects</h2>

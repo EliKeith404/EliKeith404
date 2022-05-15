@@ -6,14 +6,14 @@
 <h3 align="center">Hi! I'm Eli, a software engineer experienced in full-stack web developement and app developement.</h3>
 
 <div align="center">
-    <a href="">
-        <img src="/icos/github-btn-website.png" alt="Portfolio Site" style="margin-bottom: 5px;" >
+    <a href="#">
+        <img src="/icos/github-btn-website.png" alt="Portfolio Site" target="_blank" style="margin-bottom: 5px;">
     </a>
     <a href="https://linkedin.com/in/elikeith404">
-        <img src="/icos/github-btn-linkedin.png" alt="linkedin" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-linkedin.png" alt="linkedin" target="_blank" style="margin-bottom: 5px;">
     </a>  
     <a href="https://twitter.com/elikeith404">
-        <img src="/icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-twitter.png" alt="twitter" target="_blank" style="margin-bottom: 5px;">
     </a>
 </div>
 

@@ -15,8 +15,9 @@
     <a href="https://twitter.com/elikeith404" target="_blank">
         <img src="/icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;">
     </a>
-[Link](https://google.com){:target="_blank"}
 </div>
+
+[Link](https://google.com){:target="_blank"}
 
 <br/>
 

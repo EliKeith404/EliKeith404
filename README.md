@@ -7,14 +7,17 @@
 
 <div align="center">
     <a href="">
-        <img src="/icos/github-btn-website.png" alt="Portfolio Site" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-website.png" alt="Portfolio Site" style="margin-bottom: 5px;" >
     </a>
-    <a href="https://twitter.com/elikeith404">
-        <img src="/icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;" />
-    </a>
+
     <a href="https://linkedin.com/in/elikeith404">
-        <img src="/icos/github-btn-linkedin.png" alt="linkedin" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-linkedin.png" alt="linkedin" style="margin-bottom: 5px;" >
     </a>  
+
+    <a href="https://twitter.com/elikeith404">
+        <img src="/icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;" >
+    </a>
+
 
 </div>
 

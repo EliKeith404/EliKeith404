@@ -19,13 +19,10 @@
 
 <br/>
 
-<p align="center">Community taught software engineer with a deep interest in data visualization. Proven track record of creating and implementing successful front and back end web applications. Skilled in solving problems with HTML, CSS, JavaScript, React, SQL, Node, MongoDB, and Express. Currently looking for full time work and open to work on any interesting projects. </p>
-
+<p align="center">Community taught software engineer with a deep interest in automation and machine learning. Familiar with a wide range of languages and frameworks including HTML, CSS, JavaScript, Node.js, React, MongoDB, C#, Java, and more. Currently creating and programming puzzles for fellow creative minds at escape room companies!</p>
 <br/>
-
 ---
 
 <br>
-
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects</h2>

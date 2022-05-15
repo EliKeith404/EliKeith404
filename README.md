@@ -7,14 +7,15 @@
 
 <div align="center">
     <a href="">
-        <img src="" alt="Portfolio Site" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-website.jpg" alt="Portfolio Site" style="margin-bottom: 5px;" />
     </a>
     <a href="https://twitter.com/elikeith404">
-        <img src="" alt="twitter" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-twitter.jpg" alt="twitter" style="margin-bottom: 5px;" />
     </a>
     <a href="https://linkedin.com/in/elikeith404">
-        <img src="" alt="linkedin" style="margin-bottom: 5px;" />
+        <img src="/icos/github-btn-linkedin.jpg" alt="linkedin" style="margin-bottom: 5px;" />
     </a>  
+
 </div>
 
 <br/>

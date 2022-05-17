@@ -33,49 +33,49 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <div align="center">
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/html5-logo.svg" alt="HTML5 Logo" align="center" width="36px">
         </a>  
         <p align="center">HTML</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/css3-logo.svg" alt="CSS3 Logo" align="center" width="32px">
         </a>
         <p align="center">CSS</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/js-logo.svg" alt="JavaScript Logo" align="center" width="32px">
         </a>
         <p align="center">JavaScript</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/csharp-logo.svg" alt="C Sharp Logo" align="center" width="32px">
         </a>
         <p align="center">C#</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/java-logo.svg" alt="Java Logo" align="center" width="32px">
         </a>
         <p align="center">Java</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/react-logo.svg" alt="React Logo" align="center" width="32px">
         </a>
         <p align="center">React</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/mdb-logo.svg" alt="Mongo DB Logo" align="center" width="32px">
         </a>
         <p align="center">MongoDB</p>
     </div>
-    <div align="left">
+    <div align="center">
         <a href="#">
             <img src="/icos/node-logo.svg" alt="Node.js Logo" align="center" width="32px">
         </a>

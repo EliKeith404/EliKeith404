@@ -33,31 +33,52 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <div align="center">
-    <div>
+    <div align="left">
         <a href="#">
             <img src="/icos/html5-logo.svg" alt="HTML5 Logo" width="36px">
         </a>  
         <p>HTML</p>
     </div>
-    <a href="#">
-        <img src="/icos/css3-logo.svg" alt="CSS3 Logo" width="32px">
-    </a>
-    <a href="#">
-        <img src="/icos/js-logo.svg" alt="JavaScript Logo" width="32px">
-    </a>
-    <a href="#">
-        <img src="/icos/csharp-logo.svg" alt="C Sharp Logo" width="32px">
-    </a>
-    <a href="#">
-        <img src="/icos/java-logo.svg" alt="Java Logo" width="32px">
-    </a>
-    <a href="#">
-        <img src="/icos/react-logo.svg" alt="React Logo" width="32px">
-    </a>
-    <a href="#">
-        <img src="/icos/mdb-logo.svg" alt="Mongo DB Logo" width="32px">
-    </a>
-    <a href="#">
-        <img src="/icos/node-logo.svg" alt="Node.js Logo" width="32px">
-    </a>
+    <div align="left">
+        <a href="#">
+            <img src="/icos/css3-logo.svg" alt="CSS3 Logo" width="32px">
+        </a>
+        <p>CSS</p>
+    </div>
+    <div align="left">
+        <a href="#">
+            <img src="/icos/js-logo.svg" alt="JavaScript Logo" width="32px">
+        </a>
+        <p>JavaScript</p>
+    </div>
+    <div align="left">
+            <a href="#">
+                <img src="/icos/csharp-logo.svg" alt="C Sharp Logo" width="32px">
+            </a>
+            <p>C#</p>
+    </div>
+    <div align="left">
+        <a href="#">
+            <img src="/icos/java-logo.svg" alt="Java Logo" width="32px">
+        </a>
+        <p>Java</p>
+    </div>
+    <div align="left">
+        <a href="#">
+            <img src="/icos/react-logo.svg" alt="React Logo" width="32px">
+        </a>
+        <p>React</p>
+    </div>
+    <div align="left">
+        <a href="#">
+            <img src="/icos/mdb-logo.svg" alt="Mongo DB Logo" width="32px">
+        </a>
+        <p>MongoDB</p>
+    </div>
+    <div align="left">
+        <a href="#">
+            <img src="/icos/node-logo.svg" alt="Node.js Logo" width="32px">
+        </a>
+        <p>Node.js</p>
+    </div>
 </div>

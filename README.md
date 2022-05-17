@@ -30,10 +30,31 @@
 
 
 <!-- TOOLS -->
-### Languages and Tools:
+<h2 align="center">Languages and Tools:</h2>
 
 <div align="center">
-    <img src="/icos/html5-logo.svg" alt="HTML Logo" width="26px">
-
-
+    <a href="#">
+        <img src="/icos/html5-logo.svg" alt="HTML5 Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/css3-logo.svg" alt="CSS3 Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/js-logo.svg" alt="JavaScript Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/c#-logo.svg" alt="C Sharp Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/java-logo.svg" alt="Java Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/react-logo.svg" alt="React Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/mdb-logo.svg" alt="Mongo DB Logo" width="26px">
+    </a>
+    <a href="#">
+        <img src="/icos/node-logo.svg" alt="Node.js Logo" width="26px">
+    </a>
 </div>

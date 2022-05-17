@@ -34,51 +34,51 @@
 
 <div align="center">
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/html5-logo.svg" alt="HTML5 Logo" width="36px">
         </a>  
-        <p>HTML</p>
+        <p align="center">HTML</p>
     </div>
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/css3-logo.svg" alt="CSS3 Logo" width="32px">
         </a>
-        <p>CSS</p>
+        <p align="center">CSS</p>
     </div>
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/js-logo.svg" alt="JavaScript Logo" width="32px">
         </a>
-        <p>JavaScript</p>
+        <p align="center">JavaScript</p>
     </div>
     <div align="left">
-            <a href="#">
+            <a href="#" align="center">
                 <img src="/icos/csharp-logo.svg" alt="C Sharp Logo" width="32px">
             </a>
-            <p>C#</p>
+            <p align="center">C#</p>
     </div>
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/java-logo.svg" alt="Java Logo" width="32px">
         </a>
-        <p>Java</p>
+        <p align="center">Java</p>
     </div>
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/react-logo.svg" alt="React Logo" width="32px">
         </a>
-        <p>React</p>
+        <p align="center">React</p>
     </div>
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/mdb-logo.svg" alt="Mongo DB Logo" width="32px">
         </a>
-        <p>MongoDB</p>
+        <p align="center">MongoDB</p>
     </div>
     <div align="left">
-        <a href="#">
+        <a href="#" align="center">
             <img src="/icos/node-logo.svg" alt="Node.js Logo" width="32px">
         </a>
-        <p>Node.js</p>
+        <p align="center">Node.js</p>
     </div>
 </div>

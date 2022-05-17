@@ -27,3 +27,13 @@
 <br>
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects</h2>
+
+
+<!-- TOOLS -->
+### Languages and Tools:
+
+<div align="center">
+    <img src="/icos/html5-logo.svg" alt="HTML Logo" width="26px">
+
+
+</div>

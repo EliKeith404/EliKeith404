@@ -33,9 +33,12 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <div align="center">
-    <a href="#">
-        <img src="/icos/html5-logo.svg" alt="HTML5 Logo" width="26px">
-    </a>
+    <div>
+        <a href="#">
+            <img src="/icos/html5-logo.svg" alt="HTML5 Logo" width="30px">
+        </a>  
+        <span>HTML</span>
+    </div>
     <a href="#">
         <img src="/icos/css3-logo.svg" alt="CSS3 Logo" width="26px">
     </a>
@@ -43,7 +46,7 @@
         <img src="/icos/js-logo.svg" alt="JavaScript Logo" width="26px">
     </a>
     <a href="#">
-        <img src="/icos/c#-logo.svg" alt="C Sharp Logo" width="26px">
+        <img src="/icos/csharp-logo.svg" alt="C Sharp Logo" width="26px">
     </a>
     <a href="#">
         <img src="/icos/java-logo.svg" alt="Java Logo" width="26px">

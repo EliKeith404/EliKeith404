@@ -22,9 +22,6 @@
 <p align="center">Long time learner and community taught software engineer with a deep interest in automation. Familiar with a wide range of languages and frameworks including HTML, CSS, JavaScript, Node.js, React, MongoDB, C#, Java, and more. Currently designing and programming puzzles for fellow creative minds at escape room companies!</p>
 <br/>
 
----
-<br>
-
 <!-- TOOLS -->
 <h2 align="center">My Toolbelt</h2>
 

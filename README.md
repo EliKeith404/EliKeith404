@@ -7,13 +7,13 @@
 
 <div align="center">
     <a href="#" target="_blank">
-        <img src="/icos/github-btn-website.png" alt="Portfolio Site"  style="margin-bottom: 5px;">
+        <img src="./icos/github-btn-website.png" alt="Portfolio Site"  style="margin-bottom: 5px;">
     </a>
     <a href="https://linkedin.com/in/elikeith404" target="_blank">
-        <img src="/icos/github-btn-linkedin.png" alt="linkedin" style="margin-bottom: 5px;">
+        <img src="./icos/github-btn-linkedin.png" alt="linkedin" style="margin-bottom: 5px;">
     </a>  
     <a href="https://twitter.com/elikeith404" target="_blank">
-        <img src="/icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;">
+        <img src="./icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;">
     </a>
 </div>
 
@@ -28,57 +28,75 @@
 <!-- PROJECTS -->
 <h2 align="center" color="white">Projects</h2>
 
-
 <!-- TOOLS -->
 <h2 align="center">Languages and Tools:</h2>
 
-<div align="center">
-    <div style="display: inline-block;">
+<table><tr>
+<td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/html5-logo.svg" alt="HTML5 Logo" align="center" width="36px">
-        </a>  
+            <img src="./icos/html5-logo.svg" alt="HTML5 Logo" align="center" width="34px">
+        </a>
         <p align="center">HTML</p>
     </div>
-    <div style="display: inline-block;">
+</td>
+<td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/css3-logo.svg" alt="CSS3 Logo" align="center" width="32px">
+            <img src="./icos/css3-logo.svg" alt="CSS3 Logo" align="center" width="32px">
         </a>
         <p align="center">CSS</p>
     </div>
-    <div style="display: inline-block;">
+</td>
+<td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/js-logo.svg" alt="JavaScript Logo" align="center" width="32px">
+            <img src="./icos/js-logo.svg" alt="JavaScript Logo" align="center" width="32px">
         </a>
         <p align="center">JavaScript</p>
     </div>
-    <div style="display: inline-block;">
+<td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/csharp-logo.svg" alt="C Sharp Logo" align="center" width="32px">
+            <img src="./icos/csharp-logo.svg" alt="C Sharp Logo" align="center" width="32px">
         </a>
         <p align="center">C#</p>
     </div>
-    <div style="display: inline-block;">
+    <td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/java-logo.svg" alt="Java Logo" align="center" width="32px">
+            <img src="./icos/java-logo.svg" alt="Java Logo" align="center" width="32px">
         </a>
         <p align="center">Java</p>
     </div>
-    <div style="display: inline-block;">
+    <td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/react-logo.svg" alt="React Logo" align="center" width="32px">
+            <img src="./icos/react-logo.svg" alt="React Logo" align="center" width="32px">
         </a>
         <p align="center">React</p>
     </div>
-    <div style="display: inline-block;">
+    <td valign="top" width="10%">
+<div align="center">
         <a href="#">
-            <img src="/icos/mdb-logo.svg" alt="Mongo DB Logo" align="center" width="32px">
+            <img src="./icos/mdb-logo.svg" alt="Mongo DB Logo" align="center" width="32px">
         </a>
         <p align="center">MongoDB</p>
     </div>
-    <div style="display: inline-block;">
+    <td valign="top" width="10%">
+    <div align="center">
         <a href="#">
-            <img src="/icos/node-logo.svg" alt="Node.js Logo" align="center" width="32px">
+            <img src="./icos/node-logo.svg" alt="Node.js Logo" align="center" width="32px">
         </a>
         <p align="center">Node.js</p>
     </div>
+</td></tr></table>
+
+
+<div align="center">
+    
+    
+    
+    
+    
 </div>

@@ -32,7 +32,7 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <table align="center" style="border: none;"><tr>
-<td valign="top" width="10%">
+<td valign="top" width="25%">
     <div align="center">
         <a href="#">
             <img src="./icos/html5-logo.svg" alt="HTML5 Logo" align="center" width="32px">
@@ -40,7 +40,7 @@
         <p>HTML</p>
     </div>
 </td>
-<td valign="top" width="10%">
+<td valign="top" width="25%">
     <div align="center">
         <a href="#">
             <img src="./icos/css3-logo.svg" alt="CSS3 Logo" align="center" width="32px">
@@ -48,42 +48,43 @@
         <p>CSS</p>
     </div>
 </td>
-<td valign="top" width="10%">
+<td valign="top" width="25%">
     <div align="center">
         <a href="#">
             <img src="./icos/js-logo.svg" alt="JavaScript Logo" align="center" width="32px">
         </a>
         <p>JavaScript</p>
     </div>
-<td valign="top" width="10%">
-    <div align="center">
-        <a href="#">
-            <img src="./icos/csharp-logo.svg" alt="C Sharp Logo" align="center" width="32px">
-        </a>
-        <p>C#</p>
-    </div>
-    <td valign="top" width="10%">
-    <div align="center">
-        <a href="#">
-            <img src="./icos/java-logo.svg" alt="Java Logo" align="center" width="32px">
-        </a>
-        <p>Java</p>
-    </div>
-    <td valign="top" width="10%">
+<td valign="top" width="25%">
     <div align="center">
         <a href="#">
             <img src="./icos/react-logo.svg" alt="React Logo" align="center" width="32px">
         </a>
         <p>React</p>
     </div>
-    <td valign="top" width="10%">
-<div align="center">
+<tr>
+<td valign="top" width="25%">
+    <div align="center">
+        <a href="#">
+            <img src="./icos/csharp-logo.svg" alt="C Sharp Logo" align="center" width="32px">
+        </a>
+        <p>C#</p>
+    </div>
+<td valign="top" width="25%">
+    <div align="center">
+        <a href="#">
+            <img src="./icos/java-logo.svg" alt="Java Logo" align="center" width="32px">
+        </a>
+        <p>Java</p>
+    </div>    
+<td valign="top" width="25%">
+    <div align="center">
         <a href="#">
             <img src="./icos/mdb-logo.svg" alt="Mongo DB Logo" align="center" width="32px">
         </a>
         <p>MongoDB</p>
     </div>
-    <td valign="top" width="10%">
+<td valign="top" width="25%">
     <div align="center">
         <a href="#">
             <img src="./icos/node-logo.svg" alt="Node.js Logo" align="center" width="32px">

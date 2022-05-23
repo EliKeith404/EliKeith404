@@ -16,7 +16,6 @@
         <img src="./icos/github-btn-twitter.png" alt="twitter" style="margin-bottom: 5px;">
     </a>
 </div>
-
 <br/>
 
 <p align="center">Long time learner and community taught software engineer with a deep interest in automation. Familiar with a wide range of languages and frameworks including HTML, CSS, JavaScript, Node.js, React, MongoDB, C#, Java, and more. Currently designing and programming puzzles for fellow creative minds at escape room companies!</p>
@@ -50,7 +49,7 @@
     </div>
 <td>
     <div align="center">
-        <a href="https://github.com/stars/EliKeith404/lists/react-projectss">
+        <a href="https://github.com/stars/EliKeith404/lists/react-projects">
             <img src="./icos/react-logo.svg" alt="React Logo" align="center" width="32px">
         </a>
         <p>React</p>

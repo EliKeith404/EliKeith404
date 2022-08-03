@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-<h3 align="center">Hi! I'm Eli, a software engineer experienced in full-stack web developement and app developement.</h3>
+<h3 align="center">Hi! I'm Eli, a software engineer experienced in full-stack web development and app development.</h3>
 
 <div align="center">
     <a href="#">
@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-<p align="center">Long time learner and community taught software engineer with a deep interest in automation. Familiar with a wide range of languages and frameworks including HTML, CSS, JavaScript, Node.js, React, MongoDB, C#, Java, and more. Currently designing and programming puzzles for fellow creative minds at escape room companies!</p>
+<p align="center">Long time learner and community taught software engineer with a deep interest in automation. Familiar with a wide range of languages and frameworks including HTML, CSS, JavaScript, Node.js, Express, React, MongoDB, C#, and more. Currently designing and programming puzzles for fellow creative minds at escape room companies!</p>
 <br/>
 
 <!-- TOOLS -->
@@ -53,16 +53,6 @@
             <img src="./icos/react-logo.svg" alt="React Logo" align="center" width="32px">
         </a>
         <p>React</p>
-    </div>
-<td>
-    <div align="center">
-        <a href="#">
-            <img src="./icos/node-logo.svg" alt="Node.js Logo" align="center" width="32px">
-        </a>
-        <p>Node.js</p>
-    </div>
-<!-- Second Row -->
-<tr>
 <td>
     <div align="center">
         <a href="https://github.com/stars/EliKeith404/lists/c-projects">
@@ -70,26 +60,36 @@
         </a>
         <p>C#</p>
     </div>
+    </div>
+<!-- Second Row -->
+<tr>
 <td>
     <div align="center">
-        <a href="#">
-            <img src="./icos/cplusplus-logo.svg" alt="C Plus Plus Logo" align="center" width="30px">
+        <a href="https://github.com/stars/EliKeith404/lists/backend-projects">
+            <img src="./icos/node-logo.svg" alt="Node.js Logo" align="center" width="32px">
         </a>
-        <p>C++</p>
+        <p>Node.js</p>
     </div>
 <td>
     <div align="center">
-        <a href="https://github.com/stars/EliKeith404/lists/java-projects">
-            <img src="./icos/java-logo.svg" alt="Java Logo" align="center" width="32px">
+        <a href="https://github.com/stars/EliKeith404/lists/backend-projects">
+            <img src="./icos/express-logo.svg" alt="Express Logo" align="center" width="32px">
         </a>
-        <p>Java</p>
-    </div>    
+        <p>Express</p>
+    </div>
 <td>
     <div align="center">
-        <a href="#">
+        <a href="https://github.com/stars/EliKeith404/lists/backend-projects">
             <img src="./icos/mdb-logo.svg" alt="Mongo DB Logo" align="center" width="32px">
         </a>
         <p>MongoDB</p>
+    </div>
+<td>
+    <div align="center">
+        <a href="https://github.com/stars/EliKeith404/lists/backend-projects">
+            <img src="./icos/firebase-logo.svg" alt="Java Logo" align="center" width="32px">
+        </a>
+        <p>Firebase</p>
     </div>
 <td>
     <div align="center">

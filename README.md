@@ -6,7 +6,7 @@
 <h3 align="center">Hi! I'm Eli, a software engineer experienced in full-stack web development and app development.</h3>
 
 <div align="center">
-    <a href="https://elikeith.vercel.app/">
+    <a href="https://www.elikeith.dev/">
         <img src="./icos/github-btn-website.png" alt="Portfolio Site"  style="margin-bottom: 5px;">
     </a>
     <a href="https://linkedin.com/in/elikeith404">

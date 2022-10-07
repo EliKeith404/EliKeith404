@@ -42,7 +42,7 @@
 </td>
 <td>
     <div align="center">
-        <a href="https://github.com/stars/EliKeith404/lists/javascript-projects">
+        <a href="https://github.com/stars/EliKeith404/lists/js-ts-projects">
             <img src="./icos/js-logo.svg" alt="JavaScript Logo" align="center" width="32px">
         </a>
         <p>JavaScript</p>
